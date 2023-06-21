@@ -1,0 +1,32 @@
+#element{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+
+}
+
+#element1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+
+}
+
+#element2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+#element3{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+}
+
+.container{
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+}

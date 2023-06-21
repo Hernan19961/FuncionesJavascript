@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+}
+
+h3{
+    color: white;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.divcolor{
+    display: flex;
+    gap: 50px;
+}
+
